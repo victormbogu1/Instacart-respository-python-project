@@ -30,11 +30,11 @@ The Instacart stakeholders are most interested in the variety of customers in th
 The following python libraries used for this project were:
 * Anaconda - library manager for Python
 * Pandas - for data analysis
-* Seaborn - for visualizing the data
+* Seaborn - for visualizing the data.
 
 ## Executing code:
 
 Codes executed using jupyter notebooks by 
 * Running of codes
 * Importing of data
-* Generating Crosstabs
+* Generating Crosstabs.
